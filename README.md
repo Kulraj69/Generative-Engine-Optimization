@@ -9,9 +9,7 @@ A comprehensive collection of resources for Generative Engine Optimization: rese
 - [Companies & Startups](#companies--startups)
 - [Datasets](#datasets)
 - [Funding & Investment](#funding--investment)
-- [Conferences & Events](#conferences--events)
 - [Tutorials & Guides](#tutorials--guides)
-- [Community & Forums](#community--forums)
 - [News & Updates](#news--updates)
 
 ## 🔬 Research Papers
@@ -99,19 +97,7 @@ A comprehensive collection of resources for Generative Engine Optimization: rese
 - **Market Stage**: Early-stage market with significant funding activity and rapid growth
 - **Geographic Focus**: US-based companies dominate, with European presence (Otterly.AI)
 
-## 🎪 Conferences & Events
 
-### Upcoming Events
-- [Event Name 1] - Date, location, and registration link
-- [Event Name 2] - Date, location, and registration link
-
-### Past Events
-- [Event Name 3] - Date and key takeaways
-- [Event Name 4] - Date and key takeaways
-
-### Call for Papers
-- [Conference Name 1] - Submission deadline and topics
-- [Conference Name 2] - Submission deadline and topics
 
 ## 📖 Tutorials & Guides
 
@@ -129,19 +115,7 @@ A comprehensive collection of resources for Generative Engine Optimization: rese
 - **Monitor AI Visibility** - Use GEO tools to track brand mentions across different AI models
 - **Iterate and Adapt** - AI engines evolve quickly; strategies should be updated based on changes
 
-## 👥 Community & Forums
 
-### Online Communities
-- [Community Name 1] - Platform and focus area
-- [Community Name 2] - Platform and focus area
-
-### Discussion Forums
-- [Forum Name 1] - URL and topics covered
-- [Forum Name 2] - URL and topics covered
-
-### Social Media
-- [Platform] - Hashtags and accounts to follow
-- [Platform] - Hashtags and accounts to follow
 
 ## 📰 News & Updates
 
@@ -182,9 +156,9 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ## 🔗 Related Resources
 
-- [Related Repository 1] - Description and link
-- [Related Repository 2] - Description and link
-- [Related Website 1] - Description and link
+- [GEO Research Paper](https://arxiv.org/html/2311.09735v3) - Academic foundation for GEO
+- [GEO Project Website](https://generative-engines.com/GEO/) - Official research resources
+- [Generative Engine Optimization Tools](https://raw.githubusercontent.com/izak-fisher/generative-engine-optimization-tools/refs/heads/main/README.md) - Community-curated tools list
 
 ---
 

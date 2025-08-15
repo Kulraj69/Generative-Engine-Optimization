@@ -8,11 +8,7 @@ This directory contains organized resources for Generative Engine Optimization (
 - **`tools/`** - Software tools, frameworks, and libraries
 - **`companies/`** - Companies and startups in the GEO space
 - **`datasets/`** - Datasets, benchmarks, and evaluation resources
-- **`funding/`** - Funding opportunities, investment news, and grants
-- **`events/`** - Conferences, workshops, and community events
 - **`tutorials/`** - Tutorials, guides, and educational materials
-- **`community/`** - Community resources, forums, and social media
-- **`news/`** - Latest news, updates, and industry reports
 
 ## 📋 Adding Resources
 
