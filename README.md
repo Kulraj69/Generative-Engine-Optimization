@@ -43,6 +43,7 @@ A comprehensive collection of resources for Generative Engine Optimization: rese
 - [Otterly.AI](https://otterly.ai/) - AI search results and link citations dashboard (Austrian startup)
 
 ### Monitoring and Analytics Tools
+- [AnswerLens](https://app.sfdj.net/) - Public-evidence audit for B2B SaaS websites; checks crawlable URLs, `llms.txt`, pricing, comparison, proof, and buyer-question surfaces before an optional paid report path.
 - **AiCarma** - Daily visibility score and weekly reports
 - **ModelMonitor** - Brand mention monitoring across 50+ models
 - **FalconRank.ai** - Instant rankings with unified AI Visibility Score
