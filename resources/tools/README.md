@@ -63,6 +63,7 @@ This directory contains software tools, frameworks, and libraries for Generative
 ## 📊 Monitoring and Analytics Tools
 
 ### Visibility Tracking
+- [AnswerLens](answerlens.md) - Public-evidence audit for B2B SaaS websites; checks crawlable URLs, `llms.txt`, pricing, comparison, proof, and buyer-question surfaces before an optional paid report path.
 - **AiCarma** - Daily visibility score and weekly reports for ChatGPT, Perplexity, Google AI Overviews
 - **AI Rank Tracker** - Language-association graphs showing entity-brand associations
 - **Am I on AI?** - Simple checker for ChatGPT recommendations with priority fixes
